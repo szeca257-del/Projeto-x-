@@ -1,0 +1,15 @@
+#EXTM3U
+
+# ===== SÉRIES =====
+#EXTINF:-1 tvg-name="IT: Bem-Vindos à Derry" tvg-logo="https://filmesdiarios.org/wp-content/uploads/2025/10/gMTfrLvrDaD0zrhpLZ7zXIIpKfJ-150x150.jpg" group-title="EPISÓDIO 1",IT: Bem-Vindos à Derry
+https://embedplayer1.xyz/cdn/hls/7c2434fae210896ebb80db4004204e96/master.txt
+
+-a2fc-609daadc8b88
+#EXTINF:-1 tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png" group-title="TV Abertas",SBT
+https://aovivo.maissbt.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/SSAI_TITAN_V3/ac63b34e-0615-4402-a359-892f205ccd70/5.m3u8
+#EXTINF:-1 tvg-name="BAND" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-0.png" group-title="TV Abertas",BAND
+https://cdn-3.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8?ManOTV
+#EXTINF:-1 tvg-name="RECORD TV" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="TV Abertas",RECORD TV
+https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
+#EXTINF:-1 tvg-name="RedeTV! HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/redetv-logo.png" group-title="TV Abertas",RedeTV! HD
+http://200.115.112.44:20900/play/a0c3
